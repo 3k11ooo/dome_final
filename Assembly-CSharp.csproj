@@ -37,10 +37,10 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\Moviemana.cs" />
-     <Compile Include="Assets\Script\Quiz.cs" />
+     <Compile Include="Assets\Script\UnityEquiCam-master\Assets\EquiCam\EquiCam.cs" />
      <Compile Include="Assets\Script\AnsMeter.cs" />
      <Compile Include="Assets\Script\Scenechange.cs" />
-     <Compile Include="Assets\Script\UnityEquiCam-master\Assets\EquiCam\EquiCam.cs" />
+     <Compile Include="Assets\Script\Quiz.cs" />
      <None Include="Assets\Script\UnityEquiCam-master\Assets\EquiCam\Resources\EquiCam.shader" />
      <None Include="Assets\Script\UnityEquiCam-master\ProjectSettings\ProjectVersion.txt" />
      <None Include="Assets\Script\UnityEquiCam-master\Assets\EquiCam\Resources\TinyPlanet.shader" />
